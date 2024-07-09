@@ -1,0 +1,14 @@
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\bin\Debug\net8.0\AIoefentoetsmedia.exe
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\bin\Debug\net8.0\AIoefentoetsmedia.deps.json
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\bin\Debug\net8.0\AIoefentoetsmedia.runtimeconfig.json
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\bin\Debug\net8.0\AIoefentoetsmedia.dll
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\bin\Debug\net8.0\AIoefentoetsmedia.pdb
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\AIoefentoetsmedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\AIoefentoetsmedia.AssemblyInfoInputs.cache
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\AIoefentoetsmedia.AssemblyInfo.cs
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\AIoefentoetsmedia.csproj.CoreCompileInputs.cache
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\AIoefentoetsmedia.dll
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\refint\AIoefentoetsmedia.dll
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\AIoefentoetsmedia.pdb
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\AIoefentoetsmedia.genruntimeconfig.cache
+C:\Users\MZL11\source\repos\AIoefentoetsmedia\obj\Debug\net8.0\ref\AIoefentoetsmedia.dll
